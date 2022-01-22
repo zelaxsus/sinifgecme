@@ -1,0 +1,2 @@
+# sinifgecme
+ sınıf gecme
